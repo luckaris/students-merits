@@ -5,10 +5,11 @@ import {
   cadastrarEmpresa,
   obterUsuario,
   obterEmpresa,
-  logarUsuario,
-  logarEmpresa,
+  // logarUsuario,
+  // logarEmpresa,
   deslogarUsuario,
 } from "../hooks/api";
+import { LoginService } from "../hooks/api";
 
 export const LoginContext = createContext();
 

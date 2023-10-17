@@ -17,7 +17,7 @@ import Extrato from "../pages/extrato/Extrato.jsx";
 import CadastroDeVantagens from "../pages/empresa/CadastroDeVantagens.jsx";
 import ListarVantagens from "../pages/vantagens/ListarVantagens.jsx";
 import TrocarVantagem from "../pages/vantagens/TrocarVantagem.jsx";
-import Login from "../pages/login/Login.jsx";
+import { Login } from "../pages/login/Login.jsx";
 import NoAuth from "../pages/no-auth/NoAuth.jsx";
 import Header from "../components/header/Header";
 
